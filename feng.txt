@@ -1,4 +1,4 @@
-凤凰资讯 ,http://14.29.60.40/live/5/30/08f9ed0afa5a40eab9f325ac8416a941.m3u8?type=web.cloudplay
+凤凰资讯 ,http://14.29.60.40/live/5/30/08f9ed0afa5a40eab9f325ac8416a941.m3u8?type=web.cloudplay#http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=11
 凤凰卫视,http://live.hkstv.hk.lxdns.com/live/hks/playlist.m3u8
 凤凰香港,http://live.fengshows.com/live/PHK_500k/index.m3u8?ts=&token=
 CCTV1高清,http://223.110.243.155:80/PLTV/3/224/3221226316/index.m3u8
