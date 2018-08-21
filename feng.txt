@@ -1,21 +1,6 @@
-凤凰资讯 ,http://14.29.60.40/live/5/30/08f9ed0afa5a40eab9f325ac8416a941.m3u8?type=web.cloudplay#http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=11
+凤凰资讯 ,http://14.29.60.40/live/5/30/08f9ed0afa5a40eab9f325ac8416a941.m3u8?type=web.cloudplay
 凤凰卫视,http://live.hkstv.hk.lxdns.com/live/hks/playlist.m3u8
 凤凰香港,http://live.fengshows.com/live/PHK_500k/index.m3u8?ts=&token=
-CCTV1高清,http://223.110.243.155:80/PLTV/3/224/3221226316/index.m3u8
-CCTV2高清,http://223.110.243.155:80/PLTV/3/224/3221227412/index.m3u8
-CCTV3高清,http://223.110.241.204:6610/cntv/live1/cctv-3/cctv-3
-CCTV6高清,http://223.110.243.155:80/PLTV/3/224/3221225548/index.m3u8
-CCTV10高清,http://223.110.241.204:6610/cntv/live1/cctv-10/cctv-10
-CCTV10高清,http://223.110.243.155:80/PLTV/3/224/3221225550/index.m3u8
-广东卫视高清,http://223.110.243.136/PLTV/3/224/3221227249/index.m3u8
-湖北卫视高清,http://223.110.243.171/PLTV/3/224/3221227211/index.m3u8
-江苏卫视高清,http://223.110.243.155:80/PLTV/3/224/3221227255/index.m3u8
-山东卫视高清,http://223.110.243.155:80/PLTV/3/224/3221227258/index.m3u8
-浙江卫视高清,http://223.110.243.155:80/PLTV/3/224/3221225544/index.m3u8
-广西卫视标清	,http://223.110.243.155:80/PLTV/3/224/3221225554/index.m3u8
-贵州卫视标清	,http://223.110.243.155:80/PLTV/3/224/3221225540/index.m3u8
-河北卫视标清	,http://223.110.243.155:80/PLTV/3/224/3221225602/index.m3u8
-宁夏卫视标清	,http://223.110.243.155:80/PLTV/3/224/3221225628/index.m3u8
-山东卫视标清	,http://223.110.243.155:80/PLTV/3/224/3221225586/index.m3u8
-西藏卫视标清	,http://223.110.243.155:80/PLTV/3/224/3221225579/index.m3u8
-炫动卡通,http://223.110.243.155:80/PLTV/3/224/3221225694/index.m3u8
+CCTV1高清,http://223.110.243.155:80/PLTV/3/224/3221226316/index.m3u8#http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=11#http://117.169.72.6:8080/ysten-businessmobile/live/hdcctv01/1.m3u8
+CCTV2高清,http://223.110.243.155:80/PLTV/3/224/3221227412/index.m3u8#http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=36
+CCTV3高清,http://223.110.241.204:6610/cntv/live1/cctv-3/cctv-3#http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=37
